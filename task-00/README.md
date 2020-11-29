@@ -1,0 +1,1 @@
+I didn't face any major issues installing ubuntu.Youtube tutorials helped a lot. Although I did come across an issue I had SATA  mode as RAID which was apparently not shown so I had to search for it and make it AHCI. 
