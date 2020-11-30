@@ -1,1 +1,1 @@
-It doesn't look that good, but it represents me.
+It doesn't look that good, but it describes me.
